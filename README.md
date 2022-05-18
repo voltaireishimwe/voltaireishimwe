@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Aditya Vikram Singh Banner.jpg" height='300'/>
+<img alt="Night Coding" src="./assets/Aditya Vikram Singh Banner.jpg" height='250' align="center"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Voltaire ISHIMWE</h2>
 
