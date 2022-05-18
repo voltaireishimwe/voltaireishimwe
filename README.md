@@ -56,7 +56,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/voltaire-ishimwe-1381731bb"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="voltaireishimwe@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/IshimweVoltaire"><img src="https://img.shields.io/badge/__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/IshimweVoltaire"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://web.facebook.com/voltaire.ishimwe?_rdc=1&_rdr"><img src="https://img.shields.io/badge/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
