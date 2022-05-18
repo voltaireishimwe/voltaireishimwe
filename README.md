@@ -59,5 +59,5 @@
 <a href="[https://instagram.com/adityavs_](https://twitter.com/IshimweVoltaire)"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="[https://facebook.com/AVS1508](https://web.facebook.com/voltaire.ishimwe?_rdc=1&_rdr)"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
